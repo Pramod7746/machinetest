@@ -1,0 +1,44 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+
+
+<div class="container mt-5">
+    <div class="jumbotron text-center">
+        <h1 class="display-4">Machine Test Application</h1>
+        <p class="lead">ASP.NET MVC Application with Entity Framework (Code First or ADO.NET)</p>
+        <hr class="my-4">
+        <p>Manage Categories and Products seamlessly with CRUD operations and pagination.</p>
+        <div>
+            <a class="btn btn-primary btn-lg m-2" href="@Url.Action("Index", "Categories")" role="button">Manage Categories</a>
+            <a class="btn btn-secondary btn-lg m-2" href="@Url.Action("Index", "Products")" role="button">Manage Products</a>
+        </div>
+    </div>
+
+    <div class="row text-center mt-5">
+        <div class="col-md-6">
+            <div class="card">
+                <div class="card-header bg-primary text-white">
+                    <h5>Category Master</h5>
+                </div>
+                <div class="card-body">
+                    <p>Perform CRUD operations for Categories.</p>
+                    <a href="@Url.Action("Create", "Categories")" class="btn btn-success">Create New Category</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-6">
+            <div class="card">
+                <div class="card-header bg-secondary text-white">
+                    <h5>Product Master</h5>
+                </div>
+                <div class="card-body">
+                    <p>Manage Products and associate them with Categories.</p>
+                    <a href="@Url.Action("Create", "Products")" class="btn btn-success">Add New Product</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

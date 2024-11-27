@@ -1,0 +1,303 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kk\\source\\repos\\machinetest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B8CE77-B3B0-4AAE-83EA-3B95A791BE6A}|machinetest\\machinetest.csproj|C:\\Users\\kk\\source\\repos\\machinetest\\machinetest\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7B8CE77-B3B0-4AAE-83EA-3B95A791BE6A}|machinetest\\machinetest.csproj|solutionrelative:machinetest\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B8CE77-B3B0-4AAE-83EA-3B95A791BE6A}|machinetest\\machinetest.csproj|c:\\users\\kk\\source\\repos\\machinetest\\machinetest\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7B8CE77-B3B0-4AAE-83EA-3B95A791BE6A}|machinetest\\machinetest.csproj|solutionrelative:machinetest\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B8CE77-B3B0-4AAE-83EA-3B95A791BE6A}|machinetest\\machinetest.csproj|c:\\users\\kk\\source\\repos\\machinetest\\machinetest\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B7B8CE77-B3B0-4AAE-83EA-3B95A791BE6A}|machinetest\\machinetest.csproj|solutionrelative:machinetest\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B8CE77-B3B0-4AAE-83EA-3B95A791BE6A}|machinetest\\machinetest.csproj|C:\\Users\\kk\\source\\repos\\machinetest\\machinetest\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B7B8CE77-B3B0-4AAE-83EA-3B95A791BE6A}|machinetest\\machinetest.csproj|solutionrelative:machinetest\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B8CE77-B3B0-4AAE-83EA-3B95A791BE6A}|machinetest\\machinetest.csproj|C:\\Users\\kk\\source\\repos\\machinetest\\machinetest\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B7B8CE77-B3B0-4AAE-83EA-3B95A791BE6A}|machinetest\\machinetest.csproj|solutionrelative:machinetest\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B8CE77-B3B0-4AAE-83EA-3B95A791BE6A}|machinetest\\machinetest.csproj|C:\\Users\\kk\\source\\repos\\machinetest\\machinetest\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B7B8CE77-B3B0-4AAE-83EA-3B95A791BE6A}|machinetest\\machinetest.csproj|solutionrelative:machinetest\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B8CE77-B3B0-4AAE-83EA-3B95A791BE6A}|machinetest\\machinetest.csproj|C:\\Users\\kk\\source\\repos\\machinetest\\machinetest\\services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7B8CE77-B3B0-4AAE-83EA-3B95A791BE6A}|machinetest\\machinetest.csproj|solutionrelative:machinetest\\services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B8CE77-B3B0-4AAE-83EA-3B95A791BE6A}|machinetest\\machinetest.csproj|C:\\Users\\kk\\source\\repos\\machinetest\\machinetest\\models\\testmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{B7B8CE77-B3B0-4AAE-83EA-3B95A791BE6A}|machinetest\\machinetest.csproj|solutionrelative:machinetest\\models\\testmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B8CE77-B3B0-4AAE-83EA-3B95A791BE6A}|machinetest\\machinetest.csproj|c:\\users\\kk\\source\\repos\\machinetest\\machinetest\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7B8CE77-B3B0-4AAE-83EA-3B95A791BE6A}|machinetest\\machinetest.csproj|solutionrelative:machinetest\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B8CE77-B3B0-4AAE-83EA-3B95A791BE6A}|machinetest\\machinetest.csproj|C:\\Users\\kk\\source\\repos\\machinetest\\machinetest\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7B8CE77-B3B0-4AAE-83EA-3B95A791BE6A}|machinetest\\machinetest.csproj|solutionrelative:machinetest\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B8CE77-B3B0-4AAE-83EA-3B95A791BE6A}|machinetest\\machinetest.csproj|C:\\Users\\kk\\source\\repos\\machinetest\\machinetest\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7B8CE77-B3B0-4AAE-83EA-3B95A791BE6A}|machinetest\\machinetest.csproj|solutionrelative:machinetest\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B8CE77-B3B0-4AAE-83EA-3B95A791BE6A}|machinetest\\machinetest.csproj|C:\\Users\\kk\\source\\repos\\machinetest\\machinetest\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7B8CE77-B3B0-4AAE-83EA-3B95A791BE6A}|machinetest\\machinetest.csproj|solutionrelative:machinetest\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B8CE77-B3B0-4AAE-83EA-3B95A791BE6A}|machinetest\\machinetest.csproj|C:\\Users\\kk\\source\\repos\\machinetest\\machinetest\\views\\categories\\categorydata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B7B8CE77-B3B0-4AAE-83EA-3B95A791BE6A}|machinetest\\machinetest.csproj|solutionrelative:machinetest\\views\\categories\\categorydata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B8CE77-B3B0-4AAE-83EA-3B95A791BE6A}|machinetest\\machinetest.csproj|C:\\Users\\kk\\source\\repos\\machinetest\\machinetest\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7B8CE77-B3B0-4AAE-83EA-3B95A791BE6A}|machinetest\\machinetest.csproj|solutionrelative:machinetest\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B8CE77-B3B0-4AAE-83EA-3B95A791BE6A}|machinetest\\machinetest.csproj|C:\\Users\\kk\\source\\repos\\machinetest\\machinetest\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B7B8CE77-B3B0-4AAE-83EA-3B95A791BE6A}|machinetest\\machinetest.csproj|solutionrelative:machinetest\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B8CE77-B3B0-4AAE-83EA-3B95A791BE6A}|machinetest\\machinetest.csproj|C:\\Users\\kk\\source\\repos\\machinetest\\machinetest\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B7B8CE77-B3B0-4AAE-83EA-3B95A791BE6A}|machinetest\\machinetest.csproj|solutionrelative:machinetest\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B8CE77-B3B0-4AAE-83EA-3B95A791BE6A}|machinetest\\machinetest.csproj|C:\\Users\\kk\\source\\repos\\machinetest\\machinetest\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7B8CE77-B3B0-4AAE-83EA-3B95A791BE6A}|machinetest\\machinetest.csproj|solutionrelative:machinetest\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kk\\source\\repos\\machinetest\\machinetest\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "machinetest\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kk\\source\\repos\\machinetest\\machinetest\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "machinetest\\Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T09:59:23.599Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\kk\\source\\repos\\machinetest\\machinetest\\Services\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "machinetest\\Services\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\kk\\source\\repos\\machinetest\\machinetest\\Services\\ICategoryService.cs",
+              "RelativeToolTip": "machinetest\\Services\\ICategoryService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAIA+wAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T17:00:44.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\kk\\source\\repos\\machinetest\\machinetest\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "machinetest\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\kk\\source\\repos\\machinetest\\machinetest\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "machinetest\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwB8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T08:31:35.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\kk\\source\\repos\\machinetest\\machinetest\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "machinetest\\Services\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\kk\\source\\repos\\machinetest\\machinetest\\Services\\CategoryService.cs",
+              "RelativeToolTip": "machinetest\\Services\\CategoryService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA1wBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T08:57:09.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kk\\source\\repos\\machinetest\\machinetest\\Views\\Categories\\Index.cshtml",
+              "RelativeDocumentMoniker": "machinetest\\Views\\Categories\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kk\\source\\repos\\machinetest\\machinetest\\Views\\Categories\\Index.cshtml",
+              "RelativeToolTip": "machinetest\\Views\\Categories\\Index.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAACAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T09:00:51.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\kk\\source\\repos\\machinetest\\machinetest\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "machinetest\\Views\\Products\\Create.cshtml",
+              "ToolTip": "C:\\Users\\kk\\source\\repos\\machinetest\\machinetest\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "machinetest\\Views\\Products\\Create.cshtml",
+              "ViewState": "AgIAACYAAAAAAAAAAAAYwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T10:01:34.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\kk\\source\\repos\\machinetest\\machinetest\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "machinetest\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\kk\\source\\repos\\machinetest\\machinetest\\Models\\Category.cs",
+              "RelativeToolTip": "machinetest\\Models\\Category.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwBoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T09:01:30.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\kk\\source\\repos\\machinetest\\machinetest\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "machinetest\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\kk\\source\\repos\\machinetest\\machinetest\\Models\\Product.cs",
+              "RelativeToolTip": "machinetest\\Models\\Product.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T05:01:52.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\kk\\source\\repos\\machinetest\\machinetest\\Views\\Web.config",
+              "RelativeDocumentMoniker": "machinetest\\Views\\Web.config",
+              "ToolTip": "C:\\Users\\kk\\source\\repos\\machinetest\\machinetest\\Views\\Web.config",
+              "RelativeToolTip": "machinetest\\Views\\Web.config",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-27T05:07:04.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CategoryData.cshtml",
+              "DocumentMoniker": "C:\\Users\\kk\\source\\repos\\machinetest\\machinetest\\Views\\Categories\\CategoryData.cshtml",
+              "RelativeDocumentMoniker": "machinetest\\Views\\Categories\\CategoryData.cshtml",
+              "ToolTip": "C:\\Users\\kk\\source\\repos\\machinetest\\machinetest\\Views\\Categories\\CategoryData.cshtml",
+              "RelativeToolTip": "machinetest\\Views\\Categories\\CategoryData.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T16:51:47.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\kk\\source\\repos\\machinetest\\machinetest\\Views\\Products\\Edit.cshtml",
+              "RelativeDocumentMoniker": "machinetest\\Views\\Products\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\kk\\source\\repos\\machinetest\\machinetest\\Views\\Products\\Edit.cshtml",
+              "RelativeToolTip": "machinetest\\Views\\Products\\Edit.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T11:32:39.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TestModel.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\kk\\source\\repos\\machinetest\\machinetest\\Models\\TestModel.edmx",
+              "RelativeDocumentMoniker": "machinetest\\Models\\TestModel.edmx",
+              "ToolTip": "C:\\Users\\kk\\source\\repos\\machinetest\\machinetest\\Models\\TestModel.edmx [Diagram1]",
+              "RelativeToolTip": "machinetest\\Models\\TestModel.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-11-26T08:52:57.789Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\kk\\source\\repos\\machinetest\\machinetest\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "machinetest\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\kk\\source\\repos\\machinetest\\machinetest\\Services\\ProductService.cs",
+              "RelativeToolTip": "machinetest\\Services\\ProductService.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAADwvyYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T08:57:31.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\kk\\source\\repos\\machinetest\\machinetest\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "machinetest\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\kk\\source\\repos\\machinetest\\machinetest\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "machinetest\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBoAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T08:56:09.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\kk\\source\\repos\\machinetest\\machinetest\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "machinetest\\Services\\IProductService.cs",
+              "ToolTip": "C:\\Users\\kk\\source\\repos\\machinetest\\machinetest\\Services\\IProductService.cs",
+              "RelativeToolTip": "machinetest\\Services\\IProductService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T08:57:29.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\kk\\source\\repos\\machinetest\\machinetest\\Views\\Categories\\Create.cshtml",
+              "RelativeDocumentMoniker": "machinetest\\Views\\Categories\\Create.cshtml",
+              "ToolTip": "C:\\Users\\kk\\source\\repos\\machinetest\\machinetest\\Views\\Categories\\Create.cshtml",
+              "RelativeToolTip": "machinetest\\Views\\Categories\\Create.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T10:41:11.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\kk\\source\\repos\\machinetest\\machinetest\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "machinetest\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\kk\\source\\repos\\machinetest\\machinetest\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "machinetest\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T08:56:06.035Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+﻿@model IEnumerable<machinetest.Models.Category>
+
+@{
+    ViewBag.Title = "Category List";
+}
+
+<div class="container">
+    <h2>Category List</h2>
+
+    <p>
+        @Html.ActionLink("Create New", "Create", null, new { @class = "btn btn-success" })
+    </p>
+
+    <table class="table table-bordered table-striped">
+        <thead>
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.FirstOrDefault().CategoryID)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.FirstOrDefault().CategoryName)
+                </th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+
+            @foreach (var item in Model)
+            {
+
+                <tr>
+                    <td>
+                        @item.CategoryID
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.CategoryName)
+                    </td>
+                    <td>
+                        @Html.ActionLink("Edit", "Edit", new { id = item.CategoryID }, new { @class = "btn btn-warning btn-sm" })
+                        @Html.ActionLink("Details", "Details", new { id = item.CategoryID }, new { @class = "btn btn-info btn-sm" })
+                        @Html.ActionLink("Delete", "Delete", new { id = item.CategoryID }, new { @class = "btn btn-danger btn-sm" })
+                        @Html.ActionLink("Category Data", "CategoryData", new { id = item.CategoryID }, new { @class = "btn btn-primary btn-sm" })
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    @* Pagination Links *@
+    @if (ViewBag.TotalPages > 1)
+    {
+        <nav aria-label="Page navigation">
+            <ul class="pagination">
+                @for (var i = 1; i <= ViewBag.TotalPages; i++)
+                {
+                    <li class="@(i == ViewBag.Page ? "active" : "")">
+                        @Html.ActionLink(i.ToString(), "Index", new { page = i }, new { @class = "page-link" })
+                    </li>
+                }
+            </ul>
+        </nav>
+    }
+</div>

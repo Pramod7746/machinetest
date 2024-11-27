@@ -1,0 +1,37 @@
+﻿@model machinetest.Models.Product
+
+@{
+    ViewBag.Title = "Product Details";
+}
+
+<div class="container">
+    <h2>Product Details</h2>
+
+    <div>
+        <h4>Product Information</h4>
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.ProductName)
+            </dt>
+            <dd>
+                @Html.DisplayFor(model => model.ProductName)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Category.CategoryName)
+            </dt>
+            <dd>
+                @Html.DisplayFor(model => model.Category.CategoryName)
+            </dd>
+        </dl>
+    </div>
+
+    <div class="form-actions">
+        <!-- Edit Link -->
+        @Html.ActionLink("Edit", "Edit", new { id = Model.ProductId }, new { @class = "btn btn-warning" }) |
+
+        <!-- Back to List Link -->
+        @Html.ActionLink("Back to List", "Index", null, new { @class = "btn btn-secondary" })
+    </div>
+</div>

@@ -1,0 +1,30 @@
+﻿@model machinetest.Models.Category
+
+@{
+    ViewBag.Title = "Category Details";
+}
+
+<div class="container">
+    <h2>Category Details</h2>
+
+    <div>
+        <h4>Category Information</h4>
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.CategoryName)
+            </dt>
+            <dd>
+                @Html.DisplayFor(model => model.CategoryName)
+            </dd>
+        </dl>
+    </div>
+
+    <div class="form-actions">
+        <!-- Edit Link -->
+        @Html.ActionLink("Edit", "Edit", new { id = Model.CategoryID }, new { @class = "btn btn-warning" }) |
+
+        <!-- Back to List Link -->
+        @Html.ActionLink("Back to List", "Index", null, new { @class = "btn btn-secondary" })
+    </div>
+</div>
